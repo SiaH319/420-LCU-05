@@ -1,0 +1,1 @@
+square triangle rectangle circle ellipse rhombus trapezoid chevron pentagon hexagon septagon octagon
